@@ -42,7 +42,7 @@ uvx nb2md notebook.ipynb
 ### bash
 
 ```bash
-uvx rich-cli data.yaml
+uvx --from rich-cli rich.exe data.yaml
 ```
 
 ## Ping Sweep /24 Subnet
